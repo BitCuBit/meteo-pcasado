@@ -2,8 +2,7 @@
 
 ## About The Project
 
-The company "Grupo ASV" asked me to perform a technical test to ensure the required knowledge
-about the technology stack is adquired.
+Example test project to deploy apps.
 
 ### CASE STUDY
 
@@ -81,6 +80,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jorge Torregrosa Lloret - jtorregrosalloret@gmail.com
+Pablo Casado Varela - pcasado@bitcubit.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
