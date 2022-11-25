@@ -1,7 +1,7 @@
 MeteoASV contributors (sorted alphabetically)
 ============================================
 
-* **[Jorge Torregrosa](mailto:jtorregrosalloret@gmail.com)**
+* **[Pablo Casado](mailto:pcasado@bitcubit.com)**
 
   * Project Manager
   * Frontend main developer
