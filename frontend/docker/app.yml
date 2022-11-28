@@ -7,4 +7,4 @@ services:
       dockerfile: Dockerfile
       args:
         NPM_BUILD_COMMAND: "${NPM_BUILD_COMMAND:-prod}" # Allowed values: "prod", "dev" (How to update this line? Values from actual package.json npm run targets, 'build:*' lines)
-    image: jtorregrosa/meteoasv-frontend:0.0.1-SNAPSHOT
+    image: pcasadov/meteoasv-frontend:0.0.1-SNAPSHOT
