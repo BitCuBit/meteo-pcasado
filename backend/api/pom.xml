@@ -5,7 +5,7 @@
 
     <artifactId>api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>MeteoASV Api</name>
+    <name>Meteo Api</name>
     <description>Technical Test for ASV Company</description>
 
     <parent>
@@ -534,13 +534,13 @@
                     <configuration>
                         <rules>
                             <requireMavenVersion>
-                                <message>You are running an older version of Maven. MeteoASV requires at least Maven
+                                <message>You are running an older version of Maven. Meteo requires at least Maven
                                     ${maven.version}
                                 </message>
                                 <version>[${maven.version},)</version>
                             </requireMavenVersion>
                             <requireJavaVersion>
-                                <message>You are running an incompatible version of Java. MeteoASV supports JDK 11 to
+                                <message>You are running an incompatible version of Java. Meteo supports JDK 11 to
                                     17.
                                 </message>
                                 <version>[11,12),[12,13),[13,14),[14,15),[15,16),[16,17),[17,18)</version>

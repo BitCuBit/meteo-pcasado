@@ -6,8 +6,8 @@
     <artifactId>parent-meteoasv</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>MeteoASV Parent</name>
-    <description>Technical Test for ASV Company</description>
+    <name>Meteo Parent</name>
+    <description>Technical Test</description>
  
     <parent>
         <groupId>org.springframework.boot</groupId>

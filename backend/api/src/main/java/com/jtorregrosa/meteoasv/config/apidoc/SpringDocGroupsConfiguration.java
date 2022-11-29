@@ -59,8 +59,8 @@ import static org.springdoc.core.SpringDocUtils.getConfig;
 @Configuration
 public class SpringDocGroupsConfiguration {
 
-    public static final String MANAGEMENT_GROUP_NAME = "MeteoASV - Management";
-    public static final String DEFAULT_GROUP_NAME = "MeteoASV - Endpoints";
+    public static final String MANAGEMENT_GROUP_NAME = "Meteo - Management";
+    public static final String DEFAULT_GROUP_NAME = "Meteo - Endpoints";
     static final String MANAGEMENT_TITLE_SUFFIX = "Management API";
     static final String MANAGEMENT_DESCRIPTION = "Management endpoints documentation";
 

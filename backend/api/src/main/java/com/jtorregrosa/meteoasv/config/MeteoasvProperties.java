@@ -28,7 +28,7 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.web.cors.CorsConfiguration;
 
 /**
- * Properties specific to MeteoASV.
+ * Properties specific to Meteo.
  *
  * <p> Properties are configured in the application.yml file. </p>
  * <p> This class also load properties in the Spring Environment from the git.properties and META-INF/build-info.properties

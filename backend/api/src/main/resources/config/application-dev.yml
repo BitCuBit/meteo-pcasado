@@ -43,7 +43,7 @@ server:
   port: 8080
 
 # ===================================================================
-# MeteoASV specific properties
+# Meteo specific properties
 # ===================================================================
 
 application:

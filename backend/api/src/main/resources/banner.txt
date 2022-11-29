@@ -1,10 +1,10 @@
 
-  ${AnsiColor.GREEN}███╗   ███╗███████╗████████╗███████╗ ██████╗ ${AnsiColor.RED} █████╗ ███████╗██╗   ██╗
-  ${AnsiColor.GREEN}████╗ ████║██╔════╝╚══██╔══╝██╔════╝██╔═══██╗${AnsiColor.RED}██╔══██╗██╔════╝██║   ██║
-  ${AnsiColor.GREEN}██╔████╔██║█████╗     ██║   █████╗  ██║   ██║${AnsiColor.RED}███████║███████╗██║   ██║
-  ${AnsiColor.GREEN}██║╚██╔╝██║██╔══╝     ██║   ██╔══╝  ██║   ██║${AnsiColor.RED}██╔══██║╚════██║╚██╗ ██╔╝
-  ${AnsiColor.GREEN}██║ ╚═╝ ██║███████╗   ██║   ███████╗╚██████╔╝${AnsiColor.RED}██║  ██║███████║ ╚████╔╝ 
-  ${AnsiColor.GREEN}╚═╝     ╚═╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ ${AnsiColor.RED}╚═╝  ╚═╝╚══════╝  ╚═══╝  
+  ${AnsiColor.GREEN}███╗   ███╗███████╗████████╗███████╗ ██████╗ 
+  ${AnsiColor.GREEN}████╗ ████║██╔════╝╚══██╔══╝██╔════╝██╔═══██╗
+  ${AnsiColor.GREEN}██╔████╔██║█████╗     ██║   █████╗  ██║   ██║
+  ${AnsiColor.GREEN}██║╚██╔╝██║██╔══╝     ██║   ██╔══╝  ██║   ██║
+  ${AnsiColor.GREEN}██║ ╚═╝ ██║███████╗   ██║   ███████╗╚██████╔╝
+  ${AnsiColor.GREEN}╚═╝     ╚═╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ 
                                                                       
-${AnsiColor.BRIGHT_BLUE}:: MeteoASV :: Running Spring Boot ${spring-boot.version} ::
+${AnsiColor.BRIGHT_BLUE}:: Meteo :: Running Spring Boot ${spring-boot.version} ::
 ${AnsiColor.DEFAULT}

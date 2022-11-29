@@ -62,7 +62,7 @@ server:
     min-response-size: 1024
 
 # ===================================================================
-# MeteoASV specific properties
+# Meteo specific properties
 # ===================================================================
 
 application:
