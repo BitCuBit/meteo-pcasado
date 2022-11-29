@@ -35,7 +35,7 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Clone the repository.
 
   ```sh
-  $ git clone https://github.com/jtorregrosa/meteoasv.git
+  $ git clone https://github.com/BitCuBit/meteo-pcasado.git
   ```
 
 3. Enter your APIKEY in the file `deploy/environments/meteoasv-api.env`
